@@ -1,0 +1,46 @@
+.icon {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: turquoise;
+}
+
+.headline {
+    font-size: 50px;
+    font-weight: bold;
+    color: turquoise;
+}
+
+.borderline {
+    border: 1px solid rgb(175, 175, 175);
+}
+
+.mylist {
+    list-style-type: none;
+    background-color: darkgray;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.myshadow {
+    border: 1px solid rgb(109, 108, 108);
+    box-shadow: 6px 6px 8px rgb(109, 108, 108);
+    background-color: black;
+}
+
+.inputfeild {
+    outline: none;
+    background-color: black;
+    box-shadow: 1px 1px 1px rgb(54, 54, 54);
+}
+
+.backcolor {
+    background-color: rgb(85, 86, 87);
+
+}
+
+.coustomlist {
+    list-style-type: none;
+}
